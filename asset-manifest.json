@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/%7BGreivin-React-Portfolio%7D/static/css/main.966f9906.css",
-    "main.js": "/%7BGreivin-React-Portfolio%7D/static/js/main.b9a8a13a.js",
-    "static/media/project-3.png": "/%7BGreivin-React-Portfolio%7D/static/media/project-3.709277acba57c2406283.png",
-    "static/media/project1.png": "/%7BGreivin-React-Portfolio%7D/static/media/project1.5e36ee594c41f5f345ef.png",
-    "static/media/me.jpg": "/%7BGreivin-React-Portfolio%7D/static/media/me.0390d459081c30d57fc8.jpg",
-    "static/media/project-2.png": "/%7BGreivin-React-Portfolio%7D/static/media/project-2.ebc20e9b59760cd58b6b.png",
-    "index.html": "/%7BGreivin-React-Portfolio%7D/index.html",
-    "main.966f9906.css.map": "/%7BGreivin-React-Portfolio%7D/static/css/main.966f9906.css.map",
-    "main.b9a8a13a.js.map": "/%7BGreivin-React-Portfolio%7D/static/js/main.b9a8a13a.js.map"
+    "main.css": "/Greivin-React-Portfolio/static/css/main.966f9906.css",
+    "main.js": "/Greivin-React-Portfolio/static/js/main.076c7e01.js",
+    "static/media/project-3.png": "/Greivin-React-Portfolio/static/media/project-3.709277acba57c2406283.png",
+    "static/media/project1.png": "/Greivin-React-Portfolio/static/media/project1.5e36ee594c41f5f345ef.png",
+    "static/media/me.jpg": "/Greivin-React-Portfolio/static/media/me.0390d459081c30d57fc8.jpg",
+    "static/media/project-2.png": "/Greivin-React-Portfolio/static/media/project-2.ebc20e9b59760cd58b6b.png",
+    "index.html": "/Greivin-React-Portfolio/index.html",
+    "main.966f9906.css.map": "/Greivin-React-Portfolio/static/css/main.966f9906.css.map",
+    "main.076c7e01.js.map": "/Greivin-React-Portfolio/static/js/main.076c7e01.js.map"
   },
   "entrypoints": [
     "static/css/main.966f9906.css",
-    "static/js/main.b9a8a13a.js"
+    "static/js/main.076c7e01.js"
   ]
 }
